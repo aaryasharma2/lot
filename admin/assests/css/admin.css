@@ -1,0 +1,150 @@
+#menu-posts-spt_testimonial .wp-menu-image img {
+    width: 16px;
+    height: 16px;
+}
+
+/* Help Page */
+.sp-tfree-text-center{
+    text-align: center;
+}
+div.sp-tfree-help .wp-badge{
+    border: none;
+    background: url(../images/sp-icon.png) right no-repeat;
+    background-size: 80px 80px;
+    box-shadow: none;
+    height: auto;
+}
+.about-wrap.sp-tfree-help [class$="-col"] {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.about-wrap [class$="-col"] {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.sp-tfree-help   [class$="-col"] .col {
+    flex: 1;
+    align-self: flex-start;
+}
+.sp-tfree-help  .col {
+    margin-top: 40px;
+}
+.sp-tfree-help.about-wrap [class$="-col"] .col+.col {
+    margin-left: 20px;
+}
+div.sp-tfree-help .headline-feature.feature-video {
+    position: relative;
+    margin: 40px 0;
+    padding-bottom: 56.25%;
+    width: 100%;
+    max-width: 100%;
+    height: 0;
+    text-align: center;
+}
+div.sp-tfree-help .headline-feature.feature-video iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+div.sp-tfree-help .feature-section .sp-tfree-feature{
+    background-color: #fff;
+    padding: 20px 20px;
+    border: 1px solid #ddd;
+}
+div.sp-tfree-help .feature-section .sp-tfree-feature h3{
+    font-size: 16px;
+    margin-top: 18px;
+}
+
+div.sp-tfree-help .feature-section i.sp-tfree-font-icon{
+    font-size: 30px;
+    display: block;
+    color: #52b3d9;
+}
+div.sp-tfree-help .sp-tfree-pro-features .feature-section span.dashicons{
+    font-size: 22px;
+    color: #fff;
+    background-color: #52b3d9;
+    width: 28px;
+    height: 28px;
+    line-height: 28px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+div.sp-tfree-help .sp-tfree-pro-features .feature-section{
+    margin-bottom: 40px;
+}
+div.sp-tfree-help .sp-tfree-pro-features .feature-section .sp-tfree-feature h3{
+    margin-top:0;
+}
+div.sp-tfree-help .sp-tfree-pro-features .feature-section .sp-tfree-feature p{
+    margin-bottom:0;
+}
+div.sp-tfree-help .sp-tfree-pro-features .feature-section .sp-tfree-feature{
+    box-shadow: 0 0 10px 0 #dddddd;
+    margin: 4px;
+    border: 0 solid;
+}
+div.sp-tfree-help .sp-tfree-pro-features .feature-section.three-col .col{
+    min-width: 31.3%;
+    max-width: 31.3%;
+    margin-top: 20px;
+    padding-left: 2%;
+}
+div.sp-tfree-help .sp-tfree-pro-features .sp-tfree-pro-subtitle{
+    font-size: 1.2em;
+    margin-bottom: 26px;
+}
+
+div.sp-tfree-help .sp-tfree-upgrade-sticky-footer{
+    position: fixed;
+    bottom: 0;
+    background: #fff;
+    width: calc(100% - 195px);
+    z-index: 9;
+    margin-left: -25px;
+    text-align: center;
+    border: 1px solid #dfdfdf;
+    padding: 15px 0;
+    border-bottom: none;
+}
+div.sp-tfree-help .sp-tfree-pro-features h2{
+    font-size: 2.5em;
+    font-weight: 400;
+}
+div.sp-tfree-help .sp-tfree-upgrade-sticky-footer h3{
+    margin-top: 17px;
+    margin-bottom: 20px;
+}
+
+div.sp-tfree-help .sp-tfree-upgrade-sticky-footer a.button{
+    margin: 0 8px;
+}
+
+/* Responsive CSS */
+@media (max-width: 960px) {
+    div.sp-tfree-help .sp-tfree-upgrade-sticky-footer {
+        width: calc(100%);
+    }
+}
+@media screen and (max-width: 782px){
+    div.sp-tfree-help .three-col .col {
+        min-width: 48%!important;
+        max-width: 48%!important;
+        margin-left: 0!important;
+    }
+}
+@media (max-width: 500px) {
+    div.sp-tfree-help .wp-badge {
+        background-position-x: center;
+    }
+    div.sp-tfree-help .three-col .col {
+        min-width: 100%!important;
+        max-width: 100%!important;
+        margin-top: 1em;
+    }
+}
