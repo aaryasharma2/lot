@@ -1,0 +1,1012 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Testimonial\n"
+"POT-Creation-Date: 2018-04-14 16:36+0600\n"
+"PO-Revision-Date: 2018-04-14 16:37+0600\n"
+"Last-Translator: \n"
+"Language-Team: ShapedPlugin <support@shapedplugin.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__;esc_html_e;esc_html_x;esc_atts__;"
+"esc_atts_e;esc_atts_x\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/views/metabox/classes/framework.class.php:171
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: ../admin/views/metabox/classes/framework.class.php:176
+msgid "Default options restored."
+msgstr ""
+
+#: ../admin/views/metabox/classes/framework.class.php:195
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: ../admin/views/metabox/classes/framework.class.php:335
+msgid "Settings saved."
+msgstr ""
+
+#: ../admin/views/metabox/classes/framework.class.php:337
+msgid "Save Changes"
+msgstr ""
+
+#: ../admin/views/metabox/classes/framework.class.php:337
+msgid "Saving..."
+msgstr ""
+
+#: ../admin/views/metabox/classes/framework.class.php:338
+msgid "Restore"
+msgstr ""
+
+#: ../admin/views/metabox/classes/framework.class.php:341
+msgid "Reset All Options"
+msgstr ""
+
+#: ../admin/views/metabox/classes/options.class.php:125
+msgid "CONFIG"
+msgstr ""
+
+#: ../admin/views/metabox/classes/options.class.php:131
+#: ../admin/views/metabox/classes/options.class.php:151
+msgid "USAGE"
+msgstr ""
+
+#: ../admin/views/metabox/classes/options.class.php:137
+msgid "VALUE"
+msgstr ""
+
+#: ../admin/views/metabox/classes/options.class.php:155
+#: ../admin/views/partials/general-settings.php:76
+msgid "ID"
+msgstr ""
+
+#: ../admin/views/metabox/classes/options.class.php:227
+#, php-format
+msgid "You are editing language: ( <strong>%s</strong> )"
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:17
+msgid "Testimonial Options"
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:26
+msgid "Reviewer Information"
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:35
+#: ../admin/views/partials/stylization.php:58 ../testimonial-free.php:294
+msgid "Name"
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:36
+msgid "Type reviewer name here."
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:41
+#: ../admin/views/partials/stylization.php:84
+msgid "Identity or Position"
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:42
+msgid "Type reviewer identity or position here."
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:47
+msgid "Rating Star"
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:48
+msgid "Rating star along with testimonial."
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:50
+msgid "5 Stars"
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:51
+msgid "4 Stars"
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:52
+msgid "3 Stars"
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:53
+msgid "2 Stars"
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:54
+msgid "1 Star"
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:64
+msgid "Social Profiles"
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:73
+msgid ""
+"These Social Profile options are available in the <b><a href=\"https://"
+"shapedplugin.com/plugin/testimonial-pro\" target=\"_blank\">Pro Version</a></"
+"b>."
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:78
+msgid "Facebook"
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:79
+msgid "Type facebook URL here."
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:84
+msgid "Twitter"
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:85
+msgid "Type twitter URL here."
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:90
+msgid "Google Plus"
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:91
+msgid "Type google plus URL here."
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:96
+msgid "LinkedIn"
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:97
+msgid "Type linkedin URL here."
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:102
+msgid "Instagram"
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:103
+msgid "Type Instagram URL here."
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:108
+msgid "YouTube"
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:109
+msgid "Type youtube URL here."
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:114
+msgid "Pinterest"
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:115
+msgid "Type pinterest URL here."
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:120
+msgid "Skype"
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:121
+msgid "Type skype URL here."
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:126
+msgid "StumbleUpon"
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:127
+msgid "Type stumbleupon URL here."
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:132
+msgid "Reddit"
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:133
+msgid "Type reddit URL here."
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:138
+msgid "Dribbble"
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:139
+msgid "Type dribbble URL here."
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:144
+msgid "SnapChat"
+msgstr ""
+
+#: ../admin/views/metabox/config/metabox.config.php:145
+msgid "Type snapchat URL here."
+msgstr ""
+
+#: ../admin/views/metabox/functions/helpers.php:48
+msgid "This field class is not available!"
+msgstr ""
+
+#: ../admin/views/metabox/functions/validate.php:14
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: ../admin/views/metabox/functions/validate.php:33
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: ../admin/views/metabox/functions/validate.php:51
+msgid "Fatal Error! This field is required!"
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:16
+msgid "Layout"
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:17
+msgid "Select a layout to display the testimonials."
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:22
+msgid "Select Theme"
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:23
+msgid "Select which theme you want to display."
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:25
+msgid "Theme One"
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:31
+msgid "Display Testimonials from"
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:32
+msgid "Select an option to display the testimonials."
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:37
+msgid "Total Testimonials"
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:38
+msgid "Number of total testimonials to display."
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:43
+msgid "Testimonial Column(s)"
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:44
+msgid "Set number of column(s) for the screen larger than 1280px."
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:49
+msgid "Testimonial Column(s) on Desktop"
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:50
+msgid "Set number of column on desktop for the screen smaller than 1280px."
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:55
+msgid "Testimonial Column(s) on Small Desktop"
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:56
+msgid ""
+"Set number of column on small desktop for the screen smaller than 980px."
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:61
+msgid "Testimonial Column(s) on Tablet"
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:62
+msgid "Set number of column on tablet for the screen smaller than 736px."
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:67
+msgid "Testimonial Column(s) on Mobile"
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:68
+msgid "Set number of column on mobile for the screen smaller than 480px."
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:73
+msgid "Order By"
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:74
+msgid "Select an order by option."
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:77 ../testimonial-free.php:259
+#: ../testimonial-free.php:297
+msgid "Date"
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:78 ../testimonial-free.php:292
+msgid "Title"
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:79
+msgid "Modified"
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:85
+msgid "Order"
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:86
+msgid "Select an order option."
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:88
+msgid "Ascending"
+msgstr ""
+
+#: ../admin/views/partials/general-settings.php:89
+msgid "Descending"
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:15
+msgid "AutoPlay"
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:16
+msgid "Check to on autoplay."
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:21
+msgid "AutoPlay Speed"
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:22
+msgid "Set autoplay speed."
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:23
+msgid "(Millisecond)"
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:28
+msgid "Pagination Speed"
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:29
+msgid "Set pagination/slide scroll speed."
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:30
+msgid "(Millisecond)."
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:35
+msgid "Pause on Hover"
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:36
+msgid "Check to activate slider pause on hover."
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:41
+msgid "Infinite Loop"
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:42
+msgid "Check to activate infinite loop mode."
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:47
+msgid "Navigation Settings"
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:51
+msgid "Navigation"
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:52
+msgid "Show/Hide slider navigation."
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:58
+msgid "Choose a Style"
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:59
+msgid "Choose a slider navigation style."
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:64
+msgid "Arrow Color"
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:65
+msgid "Set the navigation arrow color."
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:71
+msgid "Arrow Hover Color"
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:72
+msgid "Set the navigation arrow hover color."
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:78
+msgid "Pagination Settings"
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:82
+msgid "Pagination"
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:83
+msgid "Show/Hide pagination."
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:90
+msgid "Dots Color"
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:91
+msgid "Set the pagination dots color."
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:97
+msgid "Active Color"
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:98
+msgid "Set the pagination active color."
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:103
+msgid "Misc. Settings"
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:107
+msgid "Swipe"
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:108
+msgid "On/Off swipe mode."
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:113
+msgid "Mouse Draggable"
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:114
+msgid "On/Off mouse draggable mode."
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:119
+msgid "RTL"
+msgstr ""
+
+#: ../admin/views/partials/slider-settings.php:120
+msgid "On/Off right to left mode."
+msgstr ""
+
+#: ../admin/views/partials/stylization.php:15
+msgid "Section Title"
+msgstr ""
+
+#: ../admin/views/partials/stylization.php:16
+msgid ""
+"Show/Hide the shortcode title as testimonial section title e.g. What Our "
+"Customers Saying."
+msgstr ""
+
+#: ../admin/views/partials/stylization.php:22
+msgid "Section Title Color"
+msgstr ""
+
+#: ../admin/views/partials/stylization.php:23
+msgid "Set section title color."
+msgstr ""
+
+#: ../admin/views/partials/stylization.php:28
+msgid "Testimonial Title"
+msgstr ""
+
+#: ../admin/views/partials/stylization.php:29
+msgid "Check to show testimonial title or tagline."
+msgstr ""
+
+#: ../admin/views/partials/stylization.php:35
+msgid "Testimonial Title Color"
+msgstr ""
+
+#: ../admin/views/partials/stylization.php:36
+msgid "Set testimonial title or tagline color."
+msgstr ""
+
+#: ../admin/views/partials/stylization.php:41
+msgid "Testimonial Content"
+msgstr ""
+
+#: ../admin/views/partials/stylization.php:42
+msgid "Check to show testimonial content."
+msgstr ""
+
+#: ../admin/views/partials/stylization.php:48
+msgid "Testimonial Content Color"
+msgstr ""
+
+#: ../admin/views/partials/stylization.php:49
+msgid "Set testimonial content color."
+msgstr ""
+
+#: ../admin/views/partials/stylization.php:54
+msgid "Reviewer Information Settings"
+msgstr ""
+
+#: ../admin/views/partials/stylization.php:59
+msgid "Show/Hide reviewer name."
+msgstr ""
+
+#: ../admin/views/partials/stylization.php:65
+msgid "Name Color"
+msgstr ""
+
+#: ../admin/views/partials/stylization.php:66
+msgid "Set reviewer name color."
+msgstr ""
+
+#: ../admin/views/partials/stylization.php:71
+msgid "Star Rating"
+msgstr ""
+
+#: ../admin/views/partials/stylization.php:72
+msgid "Show/Hide star ratings."
+msgstr ""
+
+#: ../admin/views/partials/stylization.php:78
+msgid "Star Rating Color"
+msgstr ""
+
+#: ../admin/views/partials/stylization.php:79
+msgid "Set color for star rating."
+msgstr ""
+
+#: ../admin/views/partials/stylization.php:85
+msgid "Show/Hide identity or position."
+msgstr ""
+
+#: ../admin/views/partials/stylization.php:91
+msgid "Identity or Position Color"
+msgstr ""
+
+#: ../admin/views/partials/stylization.php:92
+msgid "Set color for identity or position."
+msgstr ""
+
+#: ../admin/views/partials/typography.php:13
+msgid "Load Section Title Font"
+msgstr ""
+
+#: ../admin/views/partials/typography.php:14
+msgid "On/Off google font for the section title."
+msgstr ""
+
+#: ../admin/views/partials/typography.php:19
+msgid "Section Title Font"
+msgstr ""
+
+#: ../admin/views/partials/typography.php:20
+msgid "Set testimonial section title font properties."
+msgstr ""
+
+#: ../admin/views/partials/typography.php:24
+msgid "Load Testimonial Title Font"
+msgstr ""
+
+#: ../admin/views/partials/typography.php:25
+msgid "On/Off google font for the testimonial tagline or title."
+msgstr ""
+
+#: ../admin/views/partials/typography.php:30
+msgid "Testimonial Title Font"
+msgstr ""
+
+#: ../admin/views/partials/typography.php:31
+msgid "Set testimonial tagline or title font properties."
+msgstr ""
+
+#: ../admin/views/partials/typography.php:35
+msgid "Load Testimonial Content Font"
+msgstr ""
+
+#: ../admin/views/partials/typography.php:36
+msgid "On/Off google font for the testimonial content."
+msgstr ""
+
+#: ../admin/views/partials/typography.php:41
+msgid "Testimonial Content Font"
+msgstr ""
+
+#: ../admin/views/partials/typography.php:42
+msgid "Set testimonial content font properties."
+msgstr ""
+
+#: ../admin/views/partials/typography.php:46
+msgid "Load Name Font"
+msgstr ""
+
+#: ../admin/views/partials/typography.php:47
+msgid "On/Off google font for the name."
+msgstr ""
+
+#: ../admin/views/partials/typography.php:52
+msgid "Name Font"
+msgstr ""
+
+#: ../admin/views/partials/typography.php:53
+msgid "Set name font properties."
+msgstr ""
+
+#: ../admin/views/partials/typography.php:57
+msgid "Load Identity or Position & Company Name Font"
+msgstr ""
+
+#: ../admin/views/partials/typography.php:58
+msgid "On/Off google font for the identity or position & company name."
+msgstr ""
+
+#: ../admin/views/partials/typography.php:63
+msgid "Identity or Position & Company Name Font"
+msgstr ""
+
+#: ../admin/views/partials/typography.php:64
+msgid "Set identity or position & company name font properties."
+msgstr ""
+
+#: ../admin/views/partials/typography.php:68
+msgid "Load Location Font"
+msgstr ""
+
+#: ../admin/views/partials/typography.php:69
+msgid "On/Off google font for the location."
+msgstr ""
+
+#: ../admin/views/partials/typography.php:74
+msgid "Location Font"
+msgstr ""
+
+#: ../admin/views/partials/typography.php:75
+msgid "Set location font properties."
+msgstr ""
+
+#: ../admin/views/partials/typography.php:79
+msgid "Load Phone or Mobile Font"
+msgstr ""
+
+#: ../admin/views/partials/typography.php:80
+msgid "On/Off google font for the phone or mobile."
+msgstr ""
+
+#: ../admin/views/partials/typography.php:85
+msgid "Phone or Mobile Font"
+msgstr ""
+
+#: ../admin/views/partials/typography.php:86
+msgid "Set phone or mobile font properties."
+msgstr ""
+
+#: ../admin/views/partials/typography.php:90
+msgid "Load Email Address Font"
+msgstr ""
+
+#: ../admin/views/partials/typography.php:91
+msgid "On/Off google font for the email address."
+msgstr ""
+
+#: ../admin/views/partials/typography.php:96
+msgid "Email Address Font"
+msgstr ""
+
+#: ../admin/views/partials/typography.php:97
+msgid "Set email address font properties."
+msgstr ""
+
+#: ../admin/views/partials/typography.php:101
+msgid "Load Date Font"
+msgstr ""
+
+#: ../admin/views/partials/typography.php:102
+msgid "On/Off google font for the date."
+msgstr ""
+
+#: ../admin/views/partials/typography.php:107
+msgid "Date Font"
+msgstr ""
+
+#: ../admin/views/partials/typography.php:108
+msgid "Set date font properties."
+msgstr ""
+
+#: ../admin/views/partials/typography.php:112
+msgid "Load Website Font"
+msgstr ""
+
+#: ../admin/views/partials/typography.php:113
+msgid "On/Off google font for the website."
+msgstr ""
+
+#: ../admin/views/partials/typography.php:118
+msgid "Website Font"
+msgstr ""
+
+#: ../admin/views/partials/typography.php:119
+msgid "Set website font properties."
+msgstr ""
+
+#: ../admin/views/tab-navigation.php:13 ../admin/views/widget.php:14
+#: ../class/testimonial.php:41 ../class/testimonial.php:61
+#: ../class/testimonial.php:62
+msgid "Testimonial"
+msgstr ""
+
+#: ../admin/views/tab-navigation.php:22 ../testimonial-free.php:257
+msgid "Shortcode"
+msgstr ""
+
+#: ../admin/views/tab-navigation.php:23
+msgid "Copy and paste this shortcode into your posts or pages:"
+msgstr ""
+
+#: ../admin/views/tab-navigation.php:34
+msgid "Template Include"
+msgstr ""
+
+#: ../admin/views/tab-navigation.php:36
+msgid "Paste the PHP code into your template file:"
+msgstr ""
+
+#: ../admin/views/tab-navigation.php:45
+msgid "Post or Page editor"
+msgstr ""
+
+#: ../admin/views/tab-navigation.php:47
+msgid "Insert the shortcode with the TinyMCE button:"
+msgstr ""
+
+#: ../admin/views/widget.php:16
+msgid "Display Testimonials."
+msgstr ""
+
+#: ../admin/views/widget.php:60
+msgid "Title:"
+msgstr ""
+
+#: ../admin/views/widget.php:63
+msgid "Testimonial Shortcodes:"
+msgstr ""
+
+#: ../admin/views/widget.php:78
+msgid "You did not generate any shortcode yet."
+msgstr ""
+
+#: ../admin/views/widget.php:79
+msgid "to generate a new shortcode now."
+msgstr ""
+
+#: ../admin/views/widget.php:80
+msgid "click here"
+msgstr ""
+
+#: ../class/metabox.php:53
+msgid "Shortcode Options"
+msgstr ""
+
+#: ../class/shortcodes.php:47
+msgid "Generate Shortcode"
+msgstr ""
+
+#: ../class/shortcodes.php:48
+msgid "Generate Shortcode for Testimonial"
+msgstr ""
+
+#: ../class/shortcodes.php:57
+msgid "Testimonial Shortcodes"
+msgstr ""
+
+#: ../class/shortcodes.php:58
+msgid "Testimonial Shortcode"
+msgstr ""
+
+#: ../class/shortcodes.php:59 ../testimonial-free.php:166
+msgid "Shortcode Generator"
+msgstr ""
+
+#: ../class/shortcodes.php:60
+msgid "Add New"
+msgstr ""
+
+#: ../class/shortcodes.php:61
+msgid "Add New Shortcode"
+msgstr ""
+
+#: ../class/shortcodes.php:62 ../class/testimonial.php:66
+msgid "Edit"
+msgstr ""
+
+#: ../class/shortcodes.php:63
+msgid "Edit Shortcode"
+msgstr ""
+
+#: ../class/shortcodes.php:64
+msgid "New Shortcode"
+msgstr ""
+
+#: ../class/shortcodes.php:65 ../class/shortcodes.php:66
+msgid "View Shortcode"
+msgstr ""
+
+#: ../class/shortcodes.php:67
+msgid "Search Shortcode"
+msgstr ""
+
+#: ../class/shortcodes.php:68
+msgid "No Testimonial Shortcode Found"
+msgstr ""
+
+#: ../class/shortcodes.php:69
+msgid "No Testimonial Shortcode Found in Trash"
+msgstr ""
+
+#: ../class/shortcodes.php:70
+msgid "Parent Testimonial Shortcode"
+msgstr ""
+
+#: ../class/testimonial.php:42
+msgid "Testimonial custom post type."
+msgstr ""
+
+#: ../class/testimonial.php:60 ../class/testimonial.php:63
+msgid "Testimonials"
+msgstr ""
+
+#: ../class/testimonial.php:64 ../class/testimonial.php:65
+msgid "Add Testimonial"
+msgstr ""
+
+#: ../class/testimonial.php:67
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../class/testimonial.php:68
+msgid "New Testimonial"
+msgstr ""
+
+#: ../class/testimonial.php:69
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../class/testimonial.php:70
+msgid "No Testimonials found"
+msgstr ""
+
+#: ../class/testimonial.php:71
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: ../class/testimonial.php:72
+msgid "Parent Testimonials"
+msgstr ""
+
+#: ../class/testimonial.php:73
+msgid "Featured Image for Testimonial"
+msgstr ""
+
+#: ../class/testimonial.php:74
+msgid "Set Testimonial Thumbnail"
+msgstr ""
+
+#: ../class/testimonial.php:75
+msgid "Remove image"
+msgstr ""
+
+#: ../class/testimonial.php:76
+msgid "Use as image"
+msgstr ""
+
+#: ../includes/functions.php:29 ../includes/functions.php:30
+msgid "Shortcode updated."
+msgstr ""
+
+#: ../includes/functions.php:31
+msgid "Shortcode published."
+msgstr ""
+
+#: ../includes/functions.php:32
+msgid "Shortcode submitted."
+msgstr ""
+
+#: ../includes/functions.php:33
+msgid "Shortcode draft updated."
+msgstr ""
+
+#: ../includes/functions.php:35 ../includes/functions.php:36
+msgid "Testimonial updated."
+msgstr ""
+
+#: ../includes/functions.php:37
+msgid "Testimonial published."
+msgstr ""
+
+#: ../includes/functions.php:38
+msgid "Testimonial submitted."
+msgstr ""
+
+#: ../includes/functions.php:39
+msgid "Testimonial draft updated."
+msgstr ""
+
+#: ../includes/functions.php:56
+#, php-format
+msgid ""
+"If you like <strong>Testimonial</strong> please leave us a <a href=\"%s\" "
+"target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. Your "
+"Review is very important to us as it helps us to grow more. "
+msgstr ""
+
+#: ../includes/functions.php:67
+msgid "Testimonial Help"
+msgstr ""
+
+#: ../includes/functions.php:67
+msgid "Help"
+msgstr ""
+
+#: ../includes/functions.php:77
+msgid "Welcome to Testimonial!"
+msgstr ""
+
+#: ../includes/functions.php:78
+msgid ""
+"Thank you for installing Testimonial! You're now running the most popular "
+"Testimonial plugin.\n"
+"This video will help you get started with the plugin."
+msgstr ""
+
+#: ../public/views/deprecated-shortcodes.php:113
+#: ../public/views/shortcoderender.php:234
+msgid "No testimonials found"
+msgstr ""
+
+#: ../testimonial-free.php:165
+msgid "Go Pro!"
+msgstr ""
+
+#: ../testimonial-free.php:188
+msgid "Live Demo"
+msgstr ""
+
+#: ../testimonial-free.php:256
+msgid "Slider Title"
+msgstr ""
+
+#: ../testimonial-free.php:293
+msgid "Image"
+msgstr ""
+
+#: ../testimonial-free.php:295
+msgid "Rating"
+msgstr ""
